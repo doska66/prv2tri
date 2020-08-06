@@ -6,3 +6,4 @@
 
 -Servidor DHCP ativo, Ips dinamicos para os pcs.
 
+-novos ips : PC1 192.168.102 // PC2 192.168.108
