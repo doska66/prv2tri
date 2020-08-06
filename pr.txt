@@ -10,3 +10,6 @@
 
 
 -computadores das outras salas e seus respectivos servidores : criados;
+
+-servidor DHCP 2 criado, nome: server2 ip 192.168.0.257 Gateway: 192.168.0.257
+
