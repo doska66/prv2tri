@@ -1,3 +1,5 @@
 -2 computadores criados
 - Pc1 ip 192.168.0.1
 - Pc2 ip 192.168.0.2
+
+-servidor DHCP 1 criado, nome:server1 ip 192.168.0.254 Gateway: 192.168.0.254
