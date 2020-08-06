@@ -3,3 +3,6 @@
 - Pc2 ip 192.168.0.2
 
 -servidor DHCP 1 criado, nome:server1 ip 192.168.0.254 Gateway: 192.168.0.254
+
+-Servidor DHCP ativo, Ips dinamicos para os pcs.
+
